@@ -18,7 +18,7 @@ Combinational/Sequantial Logic을 설계합니다
 5. **Post Synthesis Verification**
 * Xcelium을 이용하여 Gate의 Delay가 반영된 Simulation을 수행합니다
 6. **Auto Place and Route(PNR)**
-* Gate Level Netlist를 실제의 회로으로 구현합니다
+* Gate Level Netlist를 실제의 회로 패턴으로 구현합니다
 
 
 
